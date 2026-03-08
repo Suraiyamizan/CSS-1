@@ -1,0 +1,43 @@
+.heading{
+    color: rgb(78, 21, 131);
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline wavy;
+    font-family: cursive;
+}
+.css1{
+    color: rgb(0, 0, 0);
+    font-size: 18;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(79, 40, 150);
+    width: calc(400px - 50px);
+    padding: 25px 15px;
+    margin: 15px 15px;
+    display: inline-block;
+}
+.css2{
+    color: rgb(182, 19, 147);
+    font-size: 36;
+    text-decoration: underline;
+    display: inline;
+}
+button{
+    color: hotpink;
+    width: 140px;
+    height: 25px;
+    border: none;
+    cursor: pointer;
+    border: 1px solid rgb(124, 8, 37);
+    background-color: black;
+    border-radius: 50px;
+}
+
+.yellow{
+    background-color: rgb(211, 211, 89);
+}
+.green{
+    background-color: rgb(175, 230, 173);
+}
+.blue{
+    background-color: lightblue;
+}
